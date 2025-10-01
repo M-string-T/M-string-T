@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @M-string-T
-- 👀 I’m interested in: Machine learning, AI and networking 
-- 🌱 I’m currently learning: HTML and CSS
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in: Machine learning, AI, and networking 
+- 🌱 I’m currently learning: Java and C++
+- 💞️ I’m looking to collaborate on Machine learning projects, AI, or smart home software
 - 📫 How to reach me: mej2684s@icloud.com
 - 😄 Pronouns: He/ Him
 - ⚡ Fun fact: ...
